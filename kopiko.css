@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin: 0;
+}
+header{
+    width: 1349px;
+    height: 216.6px;
+    background-color: black;
+}
+.kopiko{
+    padding-top: 50px;
+    line-height: 37px;
+    width: 1349px;
+    height: 100.6px;
+    text-align: center;
+}
+#p{
+    font-size:  44px ;
+    font-family: "Playfair Display", serif;
+    color: #999;
+    letter-spacing: 6.5px;
+}
+#w{
+    font-size: 14px;
+    font-family: "Playfair Display", serif;
+    color: #999;
+    letter-spacing: 6.5px;
+}
+.topbar{
+    border-top: 1px;
+    margin-bottom: 14px;
+    display: flex;
+    justify-content: center;
+}
+.topbar a{
+    margin-left: 30px;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    color: #999;
+}
+.topbar a:hover{
+    color: red;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1349px;
+    height: 1984.4px;
+    background-color: black;
+}
+.collections{
+    margin-bottom: 60px;
+    text-align: center;
+    width: 880px;
+    height: 61.31px;
+}
+.collections p{
+    font-size: 44px;
+    font-family: "Playfair Display", serif;
+    color: #999;
+}
+.coffeeoic img{
+    width: 1120px;
+    height: 630px;
+    margin-bottom: 45px;
+}
+.para p{
+    text-align: center;
+    line-height: 31px;
+    font-size: 18px;
+    font-family: Roboto, sans-serif;
+    color: #999999;
+}
+.free{
+    width: 1349px;
+    height: 51px;
+}
+.kopikotext{
+    display: flex;
+    justify-content: space-between;
+    width: 870px;
+    height: 378.5px;
+    display: flex;
+}
+.kopikoimg{
+    width:420px ;
+    height: 378.5px;
+}
+.kopikoimg img{
+    width:420px ;
+    height: 378.5px;
+}
+.text1{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    width: 420px;
+    height: 351px;
+}
+.text1 p{
+    font-size: 18px;
+    font-family: Roboto, sans-serif;
+    color: #999999;
+    line-height: 31.5px;
+}
+.free2{
+    width: 1140px;
+    height: 45px;
+}
+footer{
+    width: 1349px;
+    height: 137.75px;
+}
+.last h5{
+    margin-right: 5px;
+    font-size:12px;
+    font-family: Roboto, sans-serif;
+    color:  #999999;
+}
+.last a{
+    letter-spacing: .06px;
+    margin-right: 5px;
+    font-size: 12px;
+    font-family: Roboto, sans-serif;
+    color: #fff;
+}
+.last a:hover{
+    color: red;
+    text-decoration:underline;
+}
+.last{
+    position: relative;
+    top: 215px;
+    display: flex;
+    justify-content: center;
+}
+#img{
+    width: 420px;
+    height: 315px;
+}
+select{
+    background-color: black;
+    color:  #999999;
+    border: 0;
+}
+option{
+    color:  #999999;
+}
